@@ -1,5 +1,5 @@
 # FontTest
-The font, include the ascender, capHeight, xHeight, leading, descender...
+The font attributes, include the ascender, capHeight, xHeight, leading, descender etc.
 
 Their positions show in the lines with different color!
 
